@@ -1,5 +1,5 @@
 # Solve-Ubuntu-Error
-# sub-process /usr/bin/dpkg returned an error code (1)
+# 1.sub-process /usr/bin/dpkg returned an error code (1)
     sudo mv /var/lib/dpkg/info /var/lib/dpkg/inf0_silent
     sudo mkdir /var/lib/dpkg/info
     sudo apt-get update
