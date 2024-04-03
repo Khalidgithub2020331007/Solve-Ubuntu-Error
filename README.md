@@ -9,7 +9,8 @@
     sudo mv /var/lib/dpkg/info_silent /var/lib/dpkg/info
     sudo apt-get update
 
-
+# How to solved dpkg error in Ubuntu system / fixed dpkg error @MrUnbirth
+    https://www.youtube.com/watch?v=AKDFIXZWIEY
 
 
 
